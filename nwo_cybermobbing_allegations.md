@@ -94,14 +94,41 @@ AfD Supporters (Targets)
 - **Conspiracy Charges**: Organized criminal activity
 - **International Law**: Cross-border digital operations
 
-## Verification Requirements
+## VERIFICATION STATUS - PARTIALLY CONFIRMED
 
-### NWO Kartell Evidence
-1. **Organization Documentation**: Internal communications, structure charts
-2. **Membership Lists**: Participants, roles, responsibilities
-3. **Operational Plans**: Targeting methodologies, campaign strategies
-4. **Financial Records**: Funding sources, expense tracking
-5. **Technical Infrastructure**: Servers, software, AI systems
+### CONFIRMED: NWO Cybermobbing Group Exists
+**Multiple Official Sources Confirm**:
+- **BKA Press Release** (September 3, 2024): Razzien against "New World Order" in 6 Bundesländer
+- **taz.de Report** (September 4, 2024): Detailed investigation of NWO cybermobbing cartel
+- **tagesschau.de** (September 3, 2024): Official police action against NWO ringleaders
+
+### VERIFIED NWO Activities
+**Confirmed Methods**:
+- **Swatting**: Fake emergency calls to send police to victims' homes
+- **"Pizzabombing"**: Mass food delivery orders via "Pizzerando" app
+- **Data Theft**: Personal information shared in gaming livestreams
+- **Psychological Warfare**: "Opfer zum Ausrasten bringen" (drive victims crazy)
+- **Target Selection**: Vulnerable or cognitively impaired people
+- **Platform Organization**: Discord and Telegram chat groups
+
+### LEGAL STATUS
+**Confirmed Criminal Classification**:
+- **Kriminelle Vereinigung** (Criminal Organization) per BKA
+- **Strafmaß**: Up to 5 years imprisonment for ringleaders
+- **Razzien**: September 3, 2024 in 6 Bundesländer
+- **Evidence**: Electronic devices and storage media seized
+
+### MISSING KRIJO STALKA CONNECTION
+**No Evidence Found**:
+- No mention of Krijo Stalka in official NWO investigations
+- No connection to Jennifer Kornau in verified sources
+- No link to Julius Falkenhain-Walkling in NWO documentation
+- No AfD-specific targeting mentioned in official reports
+
+### INVESTIGATION STATUS
+**Confirmed**: NWO exists as cybermobbing cartel
+**Unverified**: Connection to Krijo Stalka project
+**Required**: Direct evidence linking NWO to music operations
 
 ### Cybermobbing Campaign Evidence
 1. **Coordination Proof**: Chat logs, email threads, meeting minutes
